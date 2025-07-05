@@ -1,4 +1,4 @@
-#Om Visnagara
+# Om Visnagara
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+Developer;Software+Engineering+Enthusiast;Building+Real-world+Projects;Learning+AI+step+by+step)](https://git.io/typing-svg)
 
