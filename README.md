@@ -22,8 +22,6 @@ Currently exploring software development, automation, and everything Python can 
 - [LinkedIn](https://www.linkedin.com/in/omvisnagara/)
 - [GitHub](https://github.com/OmVisnagara)
 
----
-> “Still learning, still building... one repo at a time.”
 
 <!--
 **OmVisnagara/OmVisnagara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
